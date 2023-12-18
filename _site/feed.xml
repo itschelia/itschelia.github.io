@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Catatan</title>
   <subtitle>Catatan orang stres</subtitle>
-  <updated>2023-12-18T09:34:09+07:00</updated>
+  <updated>2023-12-18T16:20:17+07:00</updated>
   <author>
     <name>Chelia</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Perubahan dan Pelestarian Lingkungan Hidup</title>
-    <link href="http://localhost:4000/posts/perubahan-dan-pelestarian-lingkungan-hidup/" rel="alternate" type="text/html" title="Perubahan dan Pelestarian Lingkungan Hidup" />
+    <title>Bab 5: Perubahan dan Pelestarian Lingkungan Hidup</title>
+    <link href="http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/" rel="alternate" type="text/html" title="Bab 5: Perubahan dan Pelestarian Lingkungan Hidup" />
     <published>2023-12-18T00:00:00+07:00</published>
   
     <updated>2023-12-18T00:00:00+07:00</updated>
   
-    <id>http://localhost:4000/posts/perubahan-dan-pelestarian-lingkungan-hidup/</id>
-    <content src="http://localhost:4000/posts/perubahan-dan-pelestarian-lingkungan-hidup/" />
+    <id>http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/</id>
+    <content src="http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/" />
     <author>
       <name>Chelia</name>
     </author>

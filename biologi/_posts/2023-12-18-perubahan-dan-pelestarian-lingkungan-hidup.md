@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Perubahan dan Pelestarian Lingkungan Hidup"
+title: "Bab 5: Perubahan dan Pelestarian Lingkungan Hidup"
+tags: [ipa]
 ---
 
 ## A. Keseimbangan dan perubahan lingkungan hidup
