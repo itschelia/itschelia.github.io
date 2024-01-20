@@ -1,5 +1,5 @@
 ---
-title: "Bab 5: Perubahan dan Pelestarian Lingkungan Hidup"
+title: "Perubahan dan Pelestarian Lingkungan Hidup"
 tags: [ipa]
 ---
 
@@ -21,8 +21,8 @@ Kriteria :
 
 Keseimbangan lingkungan dapat terganggu jika terjadi perubahan lingkungan berupa pengurangan fungsi dari komponen atau hilangnya beberapa komponen yang menyebabkan putusnya rantai makanan. Faktor yang menyebabkan perubahan lingkungan dapat dibedakan menjadi 2 yaitu faktor alam dan faktor manusia
 
- - Faktor Alam seperti gempa bumi, banjir, tanah longsor, gunug meletus, kemarau panjang dan lain lain
- - Faktor Manusia seperti pembakaran dan penebangan hutan secara liar, penggunaan pupuk kimia secara berlebihan, penggunaan pestisida, pembangunan industri dan pembangunan permukiman
+- Faktor Alam seperti gempa bumi, banjir, tanah longsor, gunug meletus, kemarau panjang dan lain lain
+- Faktor Manusia seperti pembakaran dan penebangan hutan secara liar, penggunaan pupuk kimia secara berlebihan, penggunaan pestisida, pembangunan industri dan pembangunan permukiman
 
 ## B. Pencemaran lingkungan hidup
 
@@ -32,7 +32,7 @@ Pencemaran lingkungan hidup adalah masuknya/ dimasukkan nya makhluk hidup oleh k
 
 ​
 
- - Pencemaran udara
+- Pencemaran udara
      - Atmosfer bumi tersusun dari 78% gas nitrogen, 21% oksigen, 0,93% argon, 0,032% karbon dioksida, dan sejumlah gas kecil lain. Komposisi gas ini merupakan komposisi atmosfer yang paling sesuai untuk mendukung kehidupan di bumi, jika salah satunya meningkat akibat berbagai aktivitas manusia/peristiwa alam, akan terjadi ketidakseimbangan komposisi atmosfer bumi yang menyebabkan masalah lingkungan yang berdampak pada kesehatan manusia. Perubahan tersebut juga disebabkan oleh masuknya polutan yang merupakan komponen penyusun atmosfer, contohnya Chlorofluorocarbon (CFC). Meningkatnya berkendara menggunakan motor menyebabkan semakin banyaknya polutan yang terbuang ke udara. Beberapa zat yang dapat menyebabkan pencemaran udara adalah:
          - Karbon monoksida
              -  Karbon monoksida tidak berwarna, tidak berbau dan tidak berasa
@@ -50,4 +50,4 @@ Pencemaran lingkungan hidup adalah masuknya/ dimasukkan nya makhluk hidup oleh k
              - Dimanfaatkan sebagai gas pendorong dalam kaleng semprot (aerosol), penimbang busa polimer, pendingin dalam lemari es, AC (air conditioning), dan pelarut pembersih microship.
              -  CFC yang masuk dapat menipiskan lapisan ozon (O3) yang menyebabkan semakin tinggi cahaya UV yang masuk kebumi dan dapat membuat kanker kulit dan kerusakan mata pada manusia serta dapat mematikan tumbuhan tertentu
          -    Ozon (O3)
-             -  Ozon di
+              - Ozon di

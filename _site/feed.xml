@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Catatan</title>
   <subtitle>Catatan orang stres</subtitle>
-  <updated>2023-12-18T16:20:17+07:00</updated>
+  <updated>2024-01-20T23:29:39+07:00</updated>
   <author>
     <name>Chelia</name>
     <uri>http://localhost:4000/</uri>
@@ -13,26 +13,120 @@
   <link rel="alternate" type="text/html" hreflang="id"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 Chelia </rights>
+  <rights> © 2024 Chelia </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Bab 5: Perubahan dan Pelestarian Lingkungan Hidup</title>
-    <link href="http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/" rel="alternate" type="text/html" title="Bab 5: Perubahan dan Pelestarian Lingkungan Hidup" />
-    <published>2023-12-18T00:00:00+07:00</published>
+    <title>Pengukuran, Besaran, dan Satuan</title>
+    <link href="http://localhost:4000/pengukuran-besaran-dan-satuan/" rel="alternate" type="text/html" title="Pengukuran, Besaran, dan Satuan" />
+    <published>2024-01-20T00:00:00+07:00</published>
   
-    <updated>2023-12-18T00:00:00+07:00</updated>
+    <updated>2024-01-20T00:00:00+07:00</updated>
   
-    <id>http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/</id>
-    <content src="http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/" />
+    <id>http://localhost:4000/pengukuran-besaran-dan-satuan/</id>
+    <content src="http://localhost:4000/pengukuran-besaran-dan-satuan/" />
     <author>
       <name>Chelia</name>
     </author>
 
   
+    
+    <category term="catatan" />
+    
+    <category term="fisika" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Definisi
+Pengukuran adalah untuk mengetahui ukuran dari sesuatu dengan cara membandingkannya dengan suatu satuan besaran yang sama.
+
+Misalnya, untuk mengetahui panjang dari suatu tiang, kita membandingkannya dengan satuan meter dari besaran panjang.
+
+Dari tiang dengan panjang 10 meter:
+
+  panjang adalah besaran
+  10 adalah nilai ukuran
+  meter adalah satuan
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Persamaan dan Fungsi Kuadrat</title>
+    <link href="http://localhost:4000/persamaan-dan-fungsi-kuadrat/" rel="alternate" type="text/html" title="Persamaan dan Fungsi Kuadrat" />
+    <published>2023-12-20T00:00:00+07:00</published>
+  
+    <updated>2023-12-20T00:00:00+07:00</updated>
+  
+    <id>http://localhost:4000/persamaan-dan-fungsi-kuadrat/</id>
+    <content src="http://localhost:4000/persamaan-dan-fungsi-kuadrat/" />
+    <author>
+      <name>Chelia</name>
+    </author>
+
+  
+    
+    <category term="catatan" />
+    
+    <category term="matematika" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Persamaan Kuadrat
+Persamaan kuadrat adalah $ax^2 + bx + c$ dimana $a$, $b$, dan $c$ adalah bilangan asli dan $a \neq 0$. Contohnya, $x^2 + x - 6$, maka $a = 1$, $b = 1$, dan $c = -6$.
+
+Menyelesaikan Persamaan Kuadrat
+
+Menyelesaikan persamaan kuadrat berarti mencari nilai-nilai x yang memenuhi persamaan kuadrat (juga disebut akar atau penyelesaian). Ada beberapa cara:
+
+
+  Pemfaktoran
+  Kuadrat s...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Perubahan dan Pelestarian Lingkungan Hidup</title>
+    <link href="http://localhost:4000/perubahan-dan-pelestarian-lingkungan-hidup/" rel="alternate" type="text/html" title="Perubahan dan Pelestarian Lingkungan Hidup" />
+    <published>2023-12-18T00:00:00+07:00</published>
+  
+    <updated>2023-12-18T00:00:00+07:00</updated>
+  
+    <id>http://localhost:4000/perubahan-dan-pelestarian-lingkungan-hidup/</id>
+    <content src="http://localhost:4000/perubahan-dan-pelestarian-lingkungan-hidup/" />
+    <author>
+      <name>Chelia</name>
+    </author>
+
+  
+    
+    <category term="catatan" />
     
     <category term="biologi" />
     

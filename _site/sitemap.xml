@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/biologi/perubahan-dan-pelestarian-lingkungan-hidup/</loc>
+<loc>http://localhost:4000/perubahan-dan-pelestarian-lingkungan-hidup/</loc>
 <lastmod>2023-12-18T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/persamaan-dan-fungsi-kuadrat/</loc>
+<lastmod>2023-12-20T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pengukuran-besaran-dan-satuan/</loc>
+<lastmod>2024-01-20T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/mapel/</loc>
-<lastmod>2023-12-18T16:20:17+07:00</lastmod>
+<lastmod>2024-01-20T23:29:39+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2023-12-18T16:20:17+07:00</lastmod>
+<lastmod>2024-01-20T23:29:39+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -19,6 +27,15 @@
 <loc>http://localhost:4000/tags/ipa/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/mapel/catatan/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/mapel/biologi/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mapel/matematika/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mapel/fisika/</loc>
 </url>
 </urlset>
